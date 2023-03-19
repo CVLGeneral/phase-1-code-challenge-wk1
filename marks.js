@@ -1,7 +1,8 @@
 function marksScore() {
 
-   const marks=parseInt(document.getElementById("mks").value);
-//It gets the value of input submitted by the user
+   //It gets the value of input submitted by the user
+
+ const marks=parseInt(document.getElementById("mks").value);
 
 
 if (marks >= 0 && marks <= 100) {
