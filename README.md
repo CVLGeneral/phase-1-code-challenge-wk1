@@ -2,10 +2,10 @@
 
 <p>This project consists of three different functionalities implemented in JavaScript: Student Grade Generator, Speed Detector, and Net Salary Calculator.</p>
 
-**Student Grade Generator**
+<h2>Student Grade Generator</h2>
 <p>The Student Grade Generator functionality allows the user to input the marks obtained by a student and generates a grade for the student based on the marks obtained.</p>
 
-**Speed Detector**
+<h2>Speed Detector</h2>
 <p>The Speed Detector functionality allows the user to input the speed of a vehicle and checks whether the vehicle is overspeeding or not based on the speed limit. If the speed is less than the speed limit, the application displays "OK". Otherwise, for every 5 km/s above the speed limit, the application gives the driver one demerit point and prints the total number of demerit points.When the total number of demerit points exceeds 12,the application displays "License Suspended"</p>
 
 <h2>Net Salary Calculator</h2>
@@ -21,16 +21,22 @@
 </ol>
 
 <h2>Usage</h2>
-<p>This project can be used to generate grades for students, detect overspeeding vehicles, and calculate the net salary of employees.</p>
+<ol>
+<li>Student Grade Generator: Enter the student's marks. The program will output the student's grade.</li>
+
+<li>Speed Detector: Provide the speed you want to test in the form.This program will output a message depending on the speed and also the demerit points</li>
+
+<li>Net Salary Calculator: Follow the prompts to enter the user's salary and deductions. The program will output the net salary.</li>
+</ol>
 
 <h2>Contributing</h2>
 <p>If you want to contribute to this project, please fork the repository and submit a pull request.</p>
 
-<h2>Credits</h2>
-<p>This project was created by Leonard Kiprotich as part of Software Engineering/Phase-1 code challenge at Moringa School.</p>
+<h2>Author</h2>
+<p>This project was created by <strong>Leonard Kiprotich</strong> as part of Software Engineering/Phase-1 code challenge at Moringa School.</p>
 
 <h2>License</h2>
-<p>This project is licensed under the <ins>MIT License</ins>.</p>
+<p>This project is licensed under the <a href="README.md">MIT License</a></p>
 
 
 
