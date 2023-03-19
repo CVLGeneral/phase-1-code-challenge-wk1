@@ -36,7 +36,7 @@
 <p>This project was created by <strong>Leonard Kiprotich</strong> as part of Software Engineering/Phase-1 code challenge at Moringa School.</p>
 
 <h2>License</h2>
-<p>This project is licensed under the <a href="README.md">MIT License</a></p>
+<p>This project is licensed under the <a href="license.md">MIT License</a></p>
 
 
 
