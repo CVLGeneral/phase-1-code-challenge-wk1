@@ -32,8 +32,12 @@
 <h2>Contributing</h2>
 <p>If you want to contribute to this project, please fork the repository and submit a pull request.</p>
 
+<h2>Known Issues</h2>
+<p>There are currently no known bugs in this project.</p>
+
 <h2>Author</h2>
 <p>This project was created by <strong>Leonard Kiprotich</strong> as part of Software Engineering/Phase-1 code challenge at Moringa School.</p>
+<p style='color:#2d8bfa'>Email:Lennyngetich4@gmail.com</p>
 
 <h2>License</h2>
 <p>This project is licensed under the <a href="license.md">MIT License</a></p>
